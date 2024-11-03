@@ -1,0 +1,49 @@
+{
+  "welcome to BTZN": "welcome to BTZN",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "wrong credentials" : "Wrong credentials",
+  "an error occurred: " : "An error occurred: ",
+  "please enter your email" : "Please enter your email",
+  "please enter a valid email address" : "Please enter a valid email address",
+  "please enter your password" : "Please enter your password",
+
+  "menu": "Menu",
+  "projects": "Projects",
+  "users": "Users",
+  "clients": "Clients",
+  "finances": "Finances",
+
+
+  "home" : "Home",
+  "welcome to the Home Screen!" : "Welcome to the Home Screen!",
+
+
+  "settings": "Settings",
+  "edit_profile": "Edit Profile",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "save": "Save",
+  "cancel": "Cancel",
+  "profile_updated_successfully": "Profile updated successfully",
+  "change_password": "Change Password",
+  "current_password": "Current Password",
+  "new_password": "New Password",
+  "password_changed_successfully": "Password changed successfully",
+  "no_profile_info_found": "No profile information found.",
+  "sign_out": "Sign Out",
+  "unknown": "Unknown",
+  "english": "English",
+  "arabic": "Arabic",
+  "french": "French",
+
+
+  "manage_users": "Manage Users",
+  "add_user": "Add User",
+  "add_new_user": "Add New User",
+  "user_email": "User Email",
+  "no_users_found": "No users found.",
+  "add": "Add",
+  "error_message": "An error occurred. Please try again."
+}
